@@ -15,3 +15,44 @@ target/m2e-wtp/web-resources/META-INF/maven/com.pluralsight/ride_tracker/pom.xml
 target/classes/log4j.properties
 target/m2e-wtp/web-resources/META-INF/maven/com.pluralsight/ride_tracker/pom.properties
 /target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## Mac:
+/.DS_Store
+
+## Maven:
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn/
+/mvnw
+/mvnw.bat
+mvnw.cmd
+/log/
+*.log*
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
